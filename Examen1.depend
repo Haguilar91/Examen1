@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1415147594 source:/home/turupawn/Projects/Codeblocks/Clases/Estructura/Examen 1/Evaluador.cpp
+	"Evaluador.h"
+
+1415147097 /home/turupawn/Projects/Codeblocks/Clases/Estructura/Examen 1/Evaluador.h
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<list>
+	<queue>
+	<algorithm>
+
+1415147471 source:/home/turupawn/Projects/Codeblocks/Clases/Estructura/Examen 1/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<list>
+	<queue>
+
+1415191018 source:c:\users\hector aguilar\documents\github\estructuraexamen1-master\estructuraexamen1-master\evaluador.cpp
+	"Evaluador.h"
+
+1415191018 c:\users\hector aguilar\documents\github\estructuraexamen1-master\estructuraexamen1-master\evaluador.h
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<list>
+	<queue>
+	<algorithm>
+
